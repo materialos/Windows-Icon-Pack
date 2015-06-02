@@ -49,7 +49,7 @@ Path=%SystemRoot%\resources\Themes\Aero\Aero.msstyles
 ColorStyle=NormalColor
 Size=NormalSize
 AutoColorization=0
-ColorizationColor=0X66FF961F
+ColorizationColor=0XD9C073FF
 VisualStyleVersion=10
 
 [boot]
